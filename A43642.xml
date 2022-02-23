@@ -1,0 +1,1037 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true table of all such fees as are due, or can be claimed in any Bishops-Courts, in all cases; as they were given in to the commissioners of his Majesty King Charles the First, Nov. 1630. By the commissaries, registers, proctors, &amp;c, under their own hands in the Star-Chamber. Necessary to be known by all persons liable to be concerned in the said Bishops-Courts.</title>
+            <author>Hickeringill, Edmund, 1631-1708.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1681</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A43642</idno>
+            <idno type="STC">Wing H1831</idno>
+            <idno type="STC">ESTC R218652</idno>
+            <idno type="EEBO-CITATION">99830225</idno>
+            <idno type="PROQUEST">99830225</idno>
+            <idno type="VID">34675</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A43642)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 34675)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 1778:29)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true table of all such fees as are due, or can be claimed in any Bishops-Courts, in all cases; as they were given in to the commissioners of his Majesty King Charles the First, Nov. 1630. By the commissaries, registers, proctors, &amp;c, under their own hands in the Star-Chamber. Necessary to be known by all persons liable to be concerned in the said Bishops-Courts.</title>
+                  <author>Hickeringill, Edmund, 1631-1708.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>printed for H.J. and are to be sold by R. Janeway in Queens-head alley in Pater-Noster-Row,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1681.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>By Edmund Hickeringill.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bishops --  England --  Early works to 1800.</term>
+               <term>Law and gospel --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-12</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2010-12</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="table_of_fees">
+            <pb facs="tcp:34675:1"/>
+            <head>A True Table of all ſuch FEES As are DUE, or can be CLAIMED in any BISHOPS-COURTS, In all Caſes; As they were Given in to the Commiſſioners of His Majeſty King CHARLES the Firſt, Nov. 1630. <hi>By the Commiſſaries, Regiſters, Proctors, &amp;c,</hi> UNDER THEIR OWN HANDS IN THE STAR-CHAMBER. <hi>Neceſſary to be known by all Perſons liable to be Concerned in the ſaid BISHOPS-CO<g ref="char:V">Ʋ</g>RTS.</hi>
+            </head>
+            <p>
+               <gap reason="illegible: page cropped" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> IS no part of the Scope of this Sheet, to debate the Legality, Expediency or Inconveniency of thoſe Courts and Juriſdictions, commonly called, <hi>Spiritual</hi> or <hi>Eccleſiaſtick,</hi> as they are now managed: Nor <gap reason="illegible: page cropped" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> whether the Perſons that hold them, and grant forth <hi>Citations</hi> in their own Names and Stiles, and not in the KINGS, do not thereby Incur the Penalty of a <hi>Praemunire</hi>; But its Buſineſs is, to Preſent you <gap reason="illegible: page cropped" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> an Exact Copy of their FEES, as they were ſtated by themſelves to certain Commiſſioners, appointed by King <hi>CHARLES</hi> the Firſt, to Inſpect them, <hi>Novemb.</hi> 1630. Which Table being long ſince <gap reason="illegible: page cropped" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>d as much as in them lies, 'tis thought fit to Re-print the ſame from the Original firſt Printed <hi>Anno Domini</hi> 1631.</p>
+            <p>
+               <table>
+                  <row>
+                     <cell role="label">Caſes of <hi>Inſtance,</hi> that is, be<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible: page cropped" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>ween Party and Party.</cell>
+                     <cell role="label" cols="2">
+                        <hi>To the Commiſ<g ref="char:EOLhyphen"/>ſary.</hi>
+                     </cell>
+                     <cell role="label" cols="2">
+                        <hi>To the Regiſter.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>To the Ap<g ref="char:EOLhyphen"/>paritor.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell role="label"> </cell>
+                     <cell role="label">
+                        <hi>s.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>d.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>s.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>d.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>d.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>
+                           <gap reason="illegible: page cropped" extent="1+ letters">
+                              <desc>•…</desc>
+                           </gap>primis,</hi> For Decreeing the Original Citation, and for Sealing of it</cell>
+                     <cell>00</cell>
+                     <cell>06</cell>
+                     <cell>00</cell>
+                     <cell>06</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <gap reason="illegible: page cropped" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap> For Decreeing the Original Citation <gap reason="illegible: page cropped" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap> a Matrimonial Cauſe with an Inhi<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible: page cropped" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>ion, and for Sealing of it</cell>
+                     <cell>01</cell>
+                     <cell>00</cell>
+                     <cell>01</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <gap reason="illegible: page cropped" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap> For the Decree of every Party prin<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible: page cropped" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>al</cell>
+                     <cell>00</cell>
+                     <cell>09</cell>
+                     <cell>00</cell>
+                     <cell>09</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <gap reason="illegible: page cropped" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap> For every Decree <hi>Viis &amp; Modis</hi>
+                     </cell>
+                     <cell>00</cell>
+                     <cell>09</cell>
+                     <cell>00</cell>
+                     <cell>09</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <gap reason="illegible: page cropped" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap> For every <hi>Excommunication</hi> or Suſ<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible: page cropped" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>ſion in Writing</cell>
+                     <cell>00</cell>
+                     <cell>09</cell>
+                     <cell>00</cell>
+                     <cell>09</cell>
+                     <cell>04 <hi>only at the Releaſe.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <gap reason="illegible: page cropped" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap> For every <hi>Abſolution</hi> from an Ex<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible: page cropped" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>mmunication or Suſpenſion</cell>
+                     <cell>00</cell>
+                     <cell>09</cell>
+                     <cell>00</cell>
+                     <cell>09</cell>
+                     <cell>04</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <gap reason="illegible: page cropped" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap> For <hi>Letters Teſtimonal</hi> to be made <gap reason="illegible: page cropped" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>on a Search, or any other Cauſe</cell>
+                     <cell>06</cell>
+                     <cell>08</cell>
+                     <cell>06</cell>
+                     <cell>08</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <gap reason="illegible: page cropped" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap> For the <hi>Oath</hi> of every <hi>Witneſs</hi> upon <gap reason="illegible: page cropped" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap> matter</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell>02</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <gap reason="illegible: page cropped" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap> For Examination of every <hi>First <gap reason="illegible: page cropped" extent="1+ letters">
+                              <desc>•…</desc>
+                           </gap>tneſs</hi> upon any matter</cell>
+                     <cell>00</cell>
+                     <cell>09</cell>
+                     <cell>00</cell>
+                     <cell>09</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <gap reason="illegible: page cropped" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap> For Examination of every other <gap reason="illegible: page cropped" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>tneſs</cell>
+                     <cell>00</cell>
+                     <cell>4½</cell>
+                     <cell>00</cell>
+                     <cell>4½</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <gap reason="illegible: page cropped" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap> For the Examination of Witneſſes <gap reason="illegible: page cropped" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>on Interrogatories</cell>
+                     <cell>00</cell>
+                     <cell>09</cell>
+                     <cell>00</cell>
+                     <cell>09</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <gap reason="illegible: page cropped" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap> For the Examination of every Party <gap reason="illegible: page cropped" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>ncipal</cell>
+                     <cell>00</cell>
+                     <cell>09</cell>
+                     <cell>00</cell>
+                     <cell>09</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <gap reason="illegible: page cropped" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap> For the Oath of every Party princi<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible: page cropped" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>
+                     </cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell>02</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <gap reason="illegible: page cropped" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap> For the Copy of every Witneſs upon <gap reason="illegible: page cropped" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap> matter produced and examined</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell>08</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <gap reason="illegible: page cropped" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap> For the Copy of the Parties princi<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible: page cropped" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap> Anſwer</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell>01</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <gap reason="illegible: page cropped" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap> For every Commiſſion for the Ex<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible: page cropped" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>ination of a Party principal or Wit<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible: page cropped" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>ſes, or for the Prizing of Goods of a <gap reason="illegible: page cropped" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>ceaſed, or to take the Oath of a <gap reason="illegible: page cropped" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>ty upon an Inventory, or Ac<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible: page cropped" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>pts, or any other matter</cell>
+                     <cell>05</cell>
+                     <cell>00</cell>
+                     <cell>05</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <gap reason="illegible: page cropped" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap> For the Conſtitution of a Proctor</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell>04</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <gap reason="illegible: page cropped" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap> For Exhibition of every Proxy in <gap reason="illegible: page cropped" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>iting</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell>02</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <gap reason="illegible: page cropped" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap> For every Act</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell>04</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <gap reason="illegible: page cropped" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap> For every Act upon the opening or <gap reason="illegible: page cropped" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>overing of a Prohibition, Conſulta<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible: page cropped" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>, or any others of the King's <gap reason="illegible: page cropped" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>its</cell>
+                     <cell>15</cell>
+                     <cell>00</cell>
+                     <cell>15</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <gap reason="illegible: page cropped" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap> For every Definitive Sentence, and <gap reason="illegible: page cropped" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>erlocutory Decree</cell>
+                     <cell>05</cell>
+                     <cell>00</cell>
+                     <cell>05</cell>
+                     <cell>00</cell>
+                     <cell>12 <hi>For a Delay.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <gap reason="illegible: page cropped" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap> For every <hi>Significavit</hi> to the Chan<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible: page cropped" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>y, For the Taking and Impriſoning of <gap reason="illegible: page cropped" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap> Excommunicate Perſon in any Cauſe, <gap reason="illegible: page cropped" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap> well of <hi>Inſtance</hi> as <hi>Office</hi>
+                     </cell>
+                     <cell>05</cell>
+                     <cell>00</cell>
+                     <cell>05</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <gap reason="illegible: page cropped" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap> For every <hi>Significavit</hi> to the Chan<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible: page cropped" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>y, for the Freedom and Inlargement <gap reason="illegible: page cropped" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap> an Excommunicate Perſon in any <gap reason="illegible: page cropped" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>ſe, as well <hi>Inſtance</hi> as <hi>Office</hi>
+                     </cell>
+                     <cell>05</cell>
+                     <cell>00</cell>
+                     <cell>05</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <gap reason="illegible: page cropped" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap> For the Copy of every Order of <gap reason="illegible: page cropped" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>nance</cell>
+                     <cell>06</cell>
+                     <cell>00</cell>
+                     <cell>06</cell>
+                     <cell>00</cell>
+                     <cell>12 <hi>To ſee it Executed</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <gap reason="illegible: page cropped" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap> For Tranſmitting every Proceſs, <hi>Ju<g ref="char:EOLhyphen"/>
+                           <gap reason="illegible: page cropped" extent="1+ letters">
+                              <desc>•…</desc>
+                           </gap>s a quo ad Judicem ad quem,</hi> to the <gap reason="illegible: page cropped" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>giſter, according to the Taxation of <gap reason="illegible: page cropped" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap> Judge <hi>ad quem,</hi> or according to <gap reason="illegible: page cropped" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>mpoſition between the Regiſter and <gap reason="illegible: page cropped" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap> Party Appellant</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell>13</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <gap reason="illegible: page cropped" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap> For the Seal of the Judge <hi>a quo,</hi> ſet <gap reason="illegible: page cropped" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>he Proceſs Tranſmitted</cell>
+                     <cell>06</cell>
+                     <cell>08</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <gap reason="illegible: page cropped" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap> For all Letters of Guardianſhip un<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible: page cropped" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap> Seal</cell>
+                     <cell>06</cell>
+                     <cell>08</cell>
+                     <cell>06</cell>
+                     <cell>08</cell>
+                     <cell>00</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <table>
+                  <row>
+                     <cell role="label">In Cauſes of <hi>Office,</hi> that is, where the Court proceeds of its own Accord, and 'tis not between Party and Party.</cell>
+                     <cell role="label" cols="2">
+                        <hi>To the Commiſ<g ref="char:EOLhyphen"/>ſary.</hi>
+                     </cell>
+                     <cell role="label" cols="2">
+                        <hi>To the Regiſter.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>To the Ap<g ref="char:EOLhyphen"/>paritor.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell role="label"> </cell>
+                     <cell role="label">
+                        <hi>s.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>d.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>s.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>d.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>d.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>IMprimis,</hi> For every Original Citation and Appearance of every Party</cell>
+                     <cell>00</cell>
+                     <cell>06</cell>
+                     <cell>00</cell>
+                     <cell>06</cell>
+                     <cell>04</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Item,</hi> For every Decree, <hi>Viis &amp; Modis</hi>
+                     </cell>
+                     <cell>00</cell>
+                     <cell>09</cell>
+                     <cell>00</cell>
+                     <cell>09</cell>
+                     <cell>04</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Item,</hi> For every Excommunication or Suſ<g ref="char:EOLhyphen"/>penſion under Seal</cell>
+                     <cell>00</cell>
+                     <cell>09</cell>
+                     <cell>00</cell>
+                     <cell>09</cell>
+                     <cell>04</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Item,</hi> For every Abſolution from an Ex<g ref="char:EOLhyphen"/>communication or Suſpenſion</cell>
+                     <cell>00</cell>
+                     <cell>09</cell>
+                     <cell>00</cell>
+                     <cell>09</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Item,</hi> For Letters Teſtimonial to be made upon any Cauſe, and for writing them, if the Cauſe ſo require</cell>
+                     <cell>06</cell>
+                     <cell>08</cell>
+                     <cell>06</cell>
+                     <cell>08</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Item,</hi> For the Examination of every Party principal</cell>
+                     <cell>00</cell>
+                     <cell>09</cell>
+                     <cell>00</cell>
+                     <cell>09</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Item,</hi> For the Copy of every Parties prin<g ref="char:EOLhyphen"/>cipal Anſwer</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell>01</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Item,</hi> For the Oath of every Party princi<g ref="char:EOLhyphen"/>pal</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell>02</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Item,</hi> For drawing of Proxy for Appear<g ref="char:EOLhyphen"/>ance at all Viſitations and Synods</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell>02</cell>
+                     <cell>06</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Item,</hi> For the Exhibition and Conſigna<g ref="char:EOLhyphen"/>tion of every Proxy in Writing at the Viſitations and Synods onely</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell>04</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Item,</hi> For Regiſtring the Names of the Churchwardens and Sidemen of every Pariſh</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell>04</cell>
+                     <cell>04 <hi>for warn<g ref="char:EOLhyphen"/>ing of them.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Item,</hi> For every Certificate made to the Biſhop by the Commiſſary for the Com<g ref="char:EOLhyphen"/>mutation of any Pennance</cell>
+                     <cell>06</cell>
+                     <cell>08</cell>
+                     <cell>06</cell>
+                     <cell>08</cell>
+                     <cell>12</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Item,</hi> When any Pennance is Commuted by the Biſhop, and the Commutation extended to the Commiſſary</cell>
+                     <cell>10</cell>
+                     <cell>00</cell>
+                     <cell>10</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Item,</hi> For the writing of any Bond taken for the Indempnity of the Judge, or his Commiſſary upon any Cauſe</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell>01</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Item,</hi> For every Act paſſed in Court</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell>04</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Item,</hi> For every Faculty that grants Li<g ref="char:EOLhyphen"/>cence, except for Teaching</cell>
+                     <cell>05</cell>
+                     <cell>00</cell>
+                     <cell>05</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Item,</hi> For Exhibiting every Bill of Preſent<g ref="char:EOLhyphen"/>ments at the Viſitation onely</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell>04</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Item,</hi> For the Purgation of every Perſon to whom Purgation is aſſigned, and for his own hand</cell>
+                     <cell>00</cell>
+                     <cell>09</cell>
+                     <cell>00</cell>
+                     <cell>09</cell>
+                     <cell>04</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Item,</hi> For every Compurgator firſt ſworn, and for his hand</cell>
+                     <cell>00</cell>
+                     <cell>09</cell>
+                     <cell>00</cell>
+                     <cell>09</cell>
+                     <cell>02</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Item,</hi> For every other Compurgator</cell>
+                     <cell>00</cell>
+                     <cell>06</cell>
+                     <cell>00</cell>
+                     <cell>06</cell>
+                     <cell>02</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Item,</hi> For every Intimation ſent out for all thoſe that will object againſt a Pur<g ref="char:EOLhyphen"/>gation of any man and his Compurga<g ref="char:EOLhyphen"/>tors</cell>
+                     <cell>01</cell>
+                     <cell>03</cell>
+                     <cell>01</cell>
+                     <cell>03</cell>
+                     <cell>04</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Item,</hi> For a Diſmiſſion of every Man out of the Court for any Cauſe whatever</cell>
+                     <cell>00</cell>
+                     <cell>06</cell>
+                     <cell>00</cell>
+                     <cell>06</cell>
+                     <cell>04</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Item,</hi> For any Search made by the Regi<g ref="char:EOLhyphen"/>ſter for any Act of Court, or any other Inſtrument, after a Cauſe is ended</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell>01</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Item,</hi> For every Sequeſtration of the fruit of a Benefice, and Publication of the ſame under Seal</cell>
+                     <cell>05</cell>
+                     <cell>00</cell>
+                     <cell>05</cell>
+                     <cell>00</cell>
+                     <cell>12</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Item,</hi> For Letters Commendatory for a Curate going out of the Juriſdiction</cell>
+                     <cell>03</cell>
+                     <cell>04</cell>
+                     <cell>03</cell>
+                     <cell>04</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Item,</hi> For every <hi>Caveat</hi> entered</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell>01</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Item,</hi> For the Copy of every Order of Pennance</cell>
+                     <cell>00</cell>
+                     <cell>06</cell>
+                     <cell>00</cell>
+                     <cell>06</cell>
+                     <cell>12 <hi>To ſee it Executed</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Item,</hi> For Tranſmitting a Proceſs, <hi>Judice a quo,</hi> to Regiſter according to the Taxa<g ref="char:EOLhyphen"/>tion of the <hi>Judge ad quem,</hi> if there be no Compoſition made betwixt the Re<g ref="char:EOLhyphen"/>giſter and Party Appellant</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell>13</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Item,</hi> For the Seal of the Judge to the ſame Proceſs</cell>
+                     <cell>06</cell>
+                     <cell>08</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Item,</hi> For the drawing of Articles againſt any Man Convented of Office, for law<g ref="char:EOLhyphen"/>ful Proof made of the truth of them</cell>
+                     <cell>01</cell>
+                     <cell>08</cell>
+                     <cell>01</cell>
+                     <cell>08</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Item,</hi> For every Act upon the withdraw<g ref="char:EOLhyphen"/>ing of a Caution out of the Regiſtry</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell>11</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Item,</hi> For every Diſpenſation for Exhibi<g ref="char:EOLhyphen"/>ting of an Inventory into Court</cell>
+                     <cell>06</cell>
+                     <cell>08</cell>
+                     <cell>06</cell>
+                     <cell>08</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Item,</hi> For an Adminiſtration of the Goods of a Deceaſed, not extending to the Sum of Five Pounds</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell>06</cell>
+                     <cell>04</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Item,</hi> For the Adminiſtration of the Goods of a Deceaſed, amounting above the Value of Five Pounds, and under Forty</cell>
+                     <cell>02</cell>
+                     <cell>06</cell>
+                     <cell>02</cell>
+                     <cell>06</cell>
+                     <cell>10</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Item,</hi> For the Adminiſtration of the Goods of a Deceaſed, amounting to Forty Pounds and upwards, let it be as many Thouſands as it will, is</cell>
+                     <cell>06</cell>
+                     <cell>08</cell>
+                     <cell>06</cell>
+                     <cell>08</cell>
+                     <cell>11</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Item,</hi> For the Probat of a Will, where the Value doth not exceed the Sum of Five Pounds</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell>06</cell>
+                     <cell>04</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Item,</hi> For the Probat of a Will, where the Goods exceed Five Pounds, and not above Forty Pounds</cell>
+                     <cell>02</cell>
+                     <cell>06</cell>
+                     <cell>01</cell>
+                     <cell>00</cell>
+                     <cell>10</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Item,</hi> For the Probat of a Will, where the Goods do exceed the Value of Forty Pounds and upwards, let it be as much as it will</cell>
+                     <cell>02</cell>
+                     <cell>06</cell>
+                     <cell>02</cell>
+                     <cell>06</cell>
+                     <cell>10</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Item,</hi> For the Ingroſſing of every Will, ac<g ref="char:EOLhyphen"/>cording to the length thereof, not ex<g ref="char:EOLhyphen"/>ceeding eight Skins, for every large Skin of Parchment</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell>08</cell>
+                     <cell>00</cell>
+                     <cell>00 <hi>For every Skin</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Item,</hi> For Ingroſſing every Inventory and Accompts, according to the length there<g ref="char:EOLhyphen"/>of, not exceeding Two ſhillings for eve<g ref="char:EOLhyphen"/>ry Preſs of Parchment</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell>02</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Item,</hi> For Exhibiting of every Inventory, and for ſubſcribing of the ſame</cell>
+                     <cell>00</cell>
+                     <cell>06</cell>
+                     <cell>00</cell>
+                     <cell>06</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Item,</hi> For the Copy of every Act extract<g ref="char:EOLhyphen"/>ed out of the Regiſtry under the Re<g ref="char:EOLhyphen"/>giſter's hand</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell>01</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Item,</hi> For the Copy of every Inventory Teſtament, Libel, Matter, Allegations, or Articles whatſoever, extracted out of the Regiſter under the Regiſter's hand</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell cols="2">
+                        <hi>According to the length thereof.</hi>
+                     </cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Item,</hi> For Letters of Requeſt made to an<g ref="char:EOLhyphen"/>other Ordinary, to Cite one dwelling out of the Judges Juriſdiction</cell>
+                     <cell>01</cell>
+                     <cell>08</cell>
+                     <cell>01</cell>
+                     <cell>08</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Item,</hi> For every Renunciation of an Ad<g ref="char:EOLhyphen"/>miniſtration of the Goods of a Decea<g ref="char:EOLhyphen"/>ſed, or an Executor of a Will Admit<g ref="char:EOLhyphen"/>ted and Enacted</cell>
+                     <cell>00</cell>
+                     <cell>06</cell>
+                     <cell>00</cell>
+                     <cell>06</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Item,</hi> For every Decree made upon the diſtribution of Goods amongſt the next of Kin, and for Regiſtring the ſame</cell>
+                     <cell>06</cell>
+                     <cell>08</cell>
+                     <cell>06</cell>
+                     <cell>08</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Item,</hi> The Fee of a Proctor every Court-day, in which he is Retained upon any Cauſe whatſoever, is</cell>
+                     <cell>01</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+               </table>
+            </p>
+            <p>And no more; Therefore they Abuſe you, when they take Ten Groats.</p>
+            <p>And indeed there is ſcarce one of all theſe Particulars, but the Officers belonging to theſe Courts, do now Demand, Take and Extort moſt Unjuſtly <hi>Greater Fees</hi> than are here ſet down, which yet are <gap reason="illegible: page cropped" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>at themſelves had the Confidence to ask or pretend due, in the Time of King <hi>CHARLES</hi> the Firſt; ſince which Time, They have not any Colour of Law, Reaſon or Authority, to have them increaſed. <gap reason="illegible: page cropped" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>efore if any of them ſhall for the future Demand, or Take any Fees, Duties or Sums of Money more or greater, than are here ſet down, let the Party grieved forthwith Indict them for <hi>Extortion</hi>; the way to Curb the <hi>Avarice</hi> and <hi>Oppreſſion</hi> of greedy devouring <hi>Locuſts,</hi> who, like the Sons of the <hi>Horſe-Leech,</hi> always Cry, <hi>Give! Give!</hi> till with tedious Vexations they undo thoſe they can get into <hi>Birdlime-Clutches.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>H. J.</hi> and are to be Sold by <hi>R. Janeway</hi> in <hi>Queens-head</hi> Alley in <hi>Pater-Noſter-Row.</hi> 1681.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
